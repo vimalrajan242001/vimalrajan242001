@@ -1,4 +1,3 @@
-preview
 <h1 align="center">Hi 👋, I'm Vimal Rajan</h1>
 <h3 align="center">A passionate about Data Science and Web</h3>
 

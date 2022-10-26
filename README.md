@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vimal Rajan</h1>
-<h3 align="center">A passionate about Data Science and Web</h3>
+<h3 align="center">A passionate about Engineer intrest in Data Science and Web</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vimalrajan242001" alt="vimalrajan242001" /></a> </p>
 

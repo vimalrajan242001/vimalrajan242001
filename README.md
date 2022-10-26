@@ -1,18 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-13015
-Fork on GitHub
-3362
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
 preview
 <h1 align="center">Hi 👋, I'm Vimal Rajan</h1>
 <h3 align="center">A passionate about Data Science and Web</h3>

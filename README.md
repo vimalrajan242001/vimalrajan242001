@@ -73,6 +73,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vimalrajan242001&show_icons=true&theme=dark&locale=en&layout=compact" alt="vimalrajan242001" /></p>
 
 <br/>  
+<br/>  <br/>  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vimalrajan242001&show_icons=true&theme=dark&locale=en" alt="vimalrajan242001" /></p>
 
 

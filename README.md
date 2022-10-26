@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vimal Rajan</h1>
-<h3 align="center">A passionate Engineer intrest in Data Science and Web</h3>
+<h3 align="center">A passionate Engineer intrested in Data Science and Web</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vimalrajan242001" alt="vimalrajan242001" /></a> </p>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -64,7 +63,20 @@
 
 </td></tr></table>  
 
+  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vimalrajan242001" alt="vimalrajan242001" /></a> </p>
+
 <br/>  
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vimalrajan242001&theme=dark" alt="vimalrajan242001" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vimalrajan242001&show_icons=true&theme=dark&locale=en&layout=compact" alt="vimalrajan242001" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vimalrajan242001&show_icons=true&theme=dark&locale=en" alt="vimalrajan242001" /></p>
+
+
+<br/>  
+
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/vimalrajan242001" target="_blank">
@@ -80,14 +92,3 @@
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-<br/>  
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vimalrajan242001&theme=dark" alt="vimalrajan242001" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vimalrajan242001&show_icons=true&theme=dark&locale=en&layout=compact" alt="vimalrajan242001" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vimalrajan242001&show_icons=true&theme=dark&locale=en" alt="vimalrajan242001" /></p>
-
-

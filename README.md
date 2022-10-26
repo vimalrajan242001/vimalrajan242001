@@ -2,11 +2,6 @@
 <h3 align="center">A passionate Engineer intrest in Data Science and Web</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vimalrajan242001" alt="vimalrajan242001" /></a> </p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vimal rajan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vimal rajan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vimalrajan242001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vimalrajan242001" height="30" width="40" /></a>
-</p>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -36,7 +31,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
 
 
 ### Backend  
@@ -71,7 +65,24 @@
 </td></tr></table>  
 
 <br/>  
+## Connect with me  
+<div align="center">
+<a href="https://github.com/vimalrajan242001" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/vimalrajan24" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/vimal24" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.kaggle.com/vimalrajan24" target="_blank">
+<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
 
+<br/>  
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vimalrajan242001&theme=dark" alt="vimalrajan242001" /></p>
 

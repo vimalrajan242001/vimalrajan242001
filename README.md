@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vimal Rajan</h1>
-<h3 align="center">A passionate Engineer intrested in Data Science and Web</h3>
+<h3 align="center">A passionate Engineer intrested in Software and AI</h3>
 
 
 ## My Skill Set  
